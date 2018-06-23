@@ -1,0 +1,5 @@
+source("example_instance/hash_block.R")
+source("example_instance/proof_of_work.R")
+source("example_instance/gen_new_block.R")
+source("example_instance/block_genesis.R")
+source("example_instance/building_block.R")
