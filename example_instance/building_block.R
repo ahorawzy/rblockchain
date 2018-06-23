@@ -1,3 +1,4 @@
+library(digest)
 blockchain <- list(block_genesis)
 previous_block <- blockchain[[1]]
 
